@@ -1,4 +1,4 @@
-package hoangphan.ea.customfontviews;
+package hoangphan.ea.customfontviews.utils;
 
 import android.content.Context;
 import android.graphics.Typeface;
